@@ -1,0 +1,23 @@
+﻿  clsDate.cpp
+C:\Users\hp\Desktop\Date And String Library Project\clsString.h(44,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\hp\Desktop\Date And String Library Project\clsString.h(49,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\hp\Desktop\Date And String Library Project\clsString.h(61,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\hp\Desktop\Date And String Library Project\clsString.h(198,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\hp\Desktop\Date And String Library Project\clsString.h(329,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\hp\Desktop\Date And String Library Project\clsString.h(377,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  clsString.cpp
+C:\Users\hp\Desktop\Date And String Library Project\clsString.h(44,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\hp\Desktop\Date And String Library Project\clsString.h(49,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\hp\Desktop\Date And String Library Project\clsString.h(61,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\hp\Desktop\Date And String Library Project\clsString.h(198,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\hp\Desktop\Date And String Library Project\clsString.h(329,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\hp\Desktop\Date And String Library Project\clsString.h(377,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  Date Library Project.cpp
+C:\Users\hp\Desktop\Date And String Library Project\clsString.h(44,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\hp\Desktop\Date And String Library Project\clsString.h(49,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\hp\Desktop\Date And String Library Project\clsString.h(61,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\hp\Desktop\Date And String Library Project\clsString.h(198,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\hp\Desktop\Date And String Library Project\clsString.h(329,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\hp\Desktop\Date And String Library Project\clsString.h(377,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  Generating Code...
+  Date Library Project.vcxproj -> C:\Users\hp\Desktop\Date And String Library Project\x64\Debug\Date Library Project.exe
